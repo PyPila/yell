@@ -1,0 +1,4 @@
+Django==1.9.2
+djangorestframework==3.3.2
+slackclient==1.0.0
+git+https://github.com/PyPila/auth-client.git@v0.3#egg=authclient
